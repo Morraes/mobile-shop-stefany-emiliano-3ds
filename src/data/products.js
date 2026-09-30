@@ -1,35 +1,35 @@
 const products = [
   {
     id: 1,
-    nome: "Notebook Gamer",
-    preco: 3999.90,
-    categoria: "Tecnologia",
-    descricao: "Desempenho para estudar e jogar.",
-    imagem: "https://placehold.co/400x260?text=Notebook"
+    nome: "Notebook CyberBlade RTX",
+    preco: 5499.90,
+    categoria: "Laptops",
+    descricao: "Tela 144Hz e placa RTX de última geração.",
+    imagem: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&q=80"
   },
   {
     id: 2,
-    nome: "Fone Bluetooth",
-    preco: 299.90,
+    nome: "Headset Pulse Pro 7.1",
+    preco: 349.90,
     categoria: "Áudio",
-    descricao: "Som de alta qualidade.",
-    imagem: "https://placehold.co/400x260?text=Fone"
+    descricao: "Cancelamento de ruído e áudio 3D.",
+    imagem: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80"
   },
   {
     id: 3,
-    nome: "Smartwatch Sport",
-    preco: 499.90,
-    categoria: "Acessórios",
-    descricao: "Monitore suas atividades físicas.",
-    imagem: "https://placehold.co/400x260?text=Smartwatch"
+    nome: "Smartwatch Quantum X",
+    preco: 699.90,
+    categoria: "Wearables",
+    descricao: "Monitoramento biométrico e display AMOLED.",
+    imagem: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80"
   },
   {
     id: 4,
-    nome: "Mouse Sem Fio",
-    preco: 120.00,
+    nome: "Mouse Gamer Phantom RGB",
+    preco: 189.90,
     categoria: "Periféricos",
-    descricao: "Ergonomia e precisão no dia a dia.",
-    imagem: "https://placehold.co/400x260?text=Mouse"
+    descricao: "Sensor óptico de 16.000 DPI ajustável.",
+    imagem: "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=400&q=80"
   }
 ];
 
